@@ -23,3 +23,5 @@ go build -o notely && ./notely
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
 Sachin's version of Boot.dev's Notely app.
+
+![Tests status](https://github.com/sachinsahoo11/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
