@@ -28,7 +28,7 @@ jobs:
         run: ./scripts/buildprod.sh
       
       - name: Run DB migrations
-        run: ./scripts/migratup.sh
+        run: ./scripts/migrateup.sh
 
       - name: GCP Auth
         id: 'auth'
